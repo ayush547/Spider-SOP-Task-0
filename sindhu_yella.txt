@@ -1,0 +1,21 @@
+1)git clone https://github.com/yellasd/sop-task-0.git
+clone the remote repo
+2)create a new branch
+git branch <branch_name>
+3)add file and commit changes to local repo
+git add <file_name>
+git commit -m "commit string"
+4)create another two branches from the first branch
+git branch <branch_name>
+5)again add files and commit changes to the branch
+git add <file_name>
+git commit -m "commit string"
+6)merge branches using
+git checkout <branch_first>
+git merge <second_branch>
+resolve conflicts and commit changes
+7)rename the log.txt file
+8)push into remote using
+git push origin <branch_name>
+9)give a pull request to the source repo
+
