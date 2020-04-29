@@ -1,0 +1,4 @@
+Reason :
+We need an egg, in order to get a chicken. Let us assume we had some organisms, call them X that are evolutionary ancestors to the chicken.
+The X's would have laid eggs, that bring X's to the world. Now let us take an egg of X, that have been exposed to different kind of environment,
+which would have given us the first chicken.
