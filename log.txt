@@ -2,5 +2,9 @@ Commands used
 git clone -> to clone the files of the repository onto local drive
 git clone <https://github.com/9401adarsh/Spider-SOP-Task-0.git>
 git fork -> to make a copy of the repository and make edits 
+git branch -> create a branch to local repo
 git add -> to add a file to a branch
 git commit -> to commit the changes done in a particular file
+git checkout -> to switch between any two branches
+git merge -> to merge branches
+git push -> pull request
