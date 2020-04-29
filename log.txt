@@ -9,3 +9,7 @@ git branch Rushikesh_Salunke :created branch named rushikesh_salunke
 git branch -a :get all info of branches present in repo
 git checkout Rushikesh_Salunke :change branch from master to given
 touch log.txt :create file naming log.txt
+git add log.txt :add file in repo
+git commit :save all changes
+git log :get history of changes
+
