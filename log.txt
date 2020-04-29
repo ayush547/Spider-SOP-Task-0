@@ -12,4 +12,7 @@ touch log.txt :create file naming log.txt
 git add log.txt :add file in repo
 git commit :save all changes
 git log :get history of changes
+git merge :add two branches
+git push origin ans_1 :sending branch to repo present in github
+
 
