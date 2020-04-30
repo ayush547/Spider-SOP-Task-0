@@ -1,5 +1,5 @@
 git fork using fork option in repository
-git clone https://github.com/Jhyo29/sop_task_1.git
+git clone https://github.com/Jhyo29/Spider-SOP-Task-0.git
 create a new branch : git branch <branch_name>
 To add a file : git add <file_name>
 commit the content : git commit  -m "commit string"
