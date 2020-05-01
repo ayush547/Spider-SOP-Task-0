@@ -1,0 +1,5 @@
+git clone-   to copy the master repo to the local system
+git branch-  used to create or rename a new branch
+git add-    to stage the changes made in working directory
+git checkout- to switch between branches
+git merge-   to merge two branches
