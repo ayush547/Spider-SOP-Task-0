@@ -3,3 +3,7 @@ git branch-  used to create or rename a new branch
 git add-    to stage the changes made in working directory
 git checkout- to switch between branches
 git merge-   to merge two branches
+cd-        to change directories
+git commit-    to commit the change to local repo
+git push-    to push into remote repo
+git pull-      to make others see the changes
