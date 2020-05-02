@@ -1,0 +1,15 @@
+fork :to get the same copy of repository from other user into our github account
+git clone :to clone the given repository to local system
+git config --global user.name :our username of github account-to connect local git to github account
+git config --global user.email :our email address
+cd :going to directory we want
+cd Spider-SOP-Task-0 :going to spider-sop-task-0 directory
+git status :knowing what is present in thst file any changes that has not commited and all
+git branch Rushikesh_Salunke :created branch named rushikesh_salunke
+git branch -a :get all info of branches present in repo
+git checkout Rushikesh_Salunke :change branch from master to given
+touch log.txt :create file naming log.txt
+git add log.txt :add file in repo
+git commit :save all changes
+git log :get history of changes
+
