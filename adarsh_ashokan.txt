@@ -1,0 +1,11 @@
+Commands used:
+
+git clone - To clone the existing repository to local drive
+cd - To change directories
+git add - To stage files to a branch
+git commit - To commit the changes to local repository
+git branch - To create new branch
+git checkout - To switch between branches
+git merge - To merge 2 branches
+git pull - To get all the updated data
+git push - To push the data to remote repository
