@@ -1,0 +1,8 @@
+git clone-     used to copy the repo in the local system
+git branch-     used to create or rename a branch
+git add-        to add changes to the working dirctory in staging area
+git commit-     to save the changes in the local repo
+git checkout-   to switch between branches
+git merge-      to merge two branches
+git pull-       to send the changes in the forked repo to the original repo
+git push-        to push local repo content to remote repo
